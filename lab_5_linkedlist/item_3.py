@@ -50,8 +50,6 @@ def mergeOrderesList(p:Node, q:Node):
 
     return head
 
-#################### FIX comand ####################   
-# input only a number save in L1,L2
 inp = input("Enter 2 Lists : ").split()
 L1 = inp[0].split(',')
 L2 = inp[1].split(',')
